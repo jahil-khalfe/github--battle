@@ -21,7 +21,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "firebase-tools": "^4.1.0",
     "prop-types": "^15.5.10",
     "query-string": "^4.3.4",
